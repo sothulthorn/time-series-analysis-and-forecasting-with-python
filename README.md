@@ -4,3 +4,4 @@
 
 - Introduction to Time Series Forecasting
 - Exponential Smoothing and Holt-Winters
+- Capstone Project - Airmiles
