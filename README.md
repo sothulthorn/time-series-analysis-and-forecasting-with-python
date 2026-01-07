@@ -6,3 +6,7 @@
 - Exponential Smoothing and Holt-Winters
 - Capstone Project - Airmiles
 - ARIMA, SARIMA and SARIMAX
+
+## PART 2 - MODERN TIMER SERIES
+
+- Prophet
